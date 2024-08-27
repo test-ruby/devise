@@ -1,5 +1,4 @@
-### test 1
-
+### test 0
 ![Devise Logo](https://raw.github.com/heartcombo/devise/main/devise.png)
 
 Devise is a flexible authentication solution for Rails based on Warden. It:
